@@ -249,6 +249,11 @@ section .title::after{
 .about .about-content .right .text span{
     color: crimson;
 }
+#modal{
+    border: 2px solid red;
+    max-height: 100px;
+    max-width: 100px;
+}
 .about .about-content .right p{
     text-align: justify;
 }
